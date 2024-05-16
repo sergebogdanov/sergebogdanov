@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me via email
-- 😄 Pronouns: serge
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: iam an autist
 
 <!---
